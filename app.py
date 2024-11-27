@@ -1,3 +1,4 @@
+// In your Terminal run: pip install reportlab
 from reportlab.pdfgen import canvas
 
 pdf_file = canvas.Canvas("clcodingpdff.pdf")
